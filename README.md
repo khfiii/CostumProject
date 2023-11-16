@@ -23,4 +23,4 @@ Or go to the project with your favorite IDE
     
 ## Attention 
 
-If there are errors during installation, don't forget to compile the package to recompile it. 
+If there are errors after installation, like component can't load or component can't compile don't forget to compile the package to recompile it. 
